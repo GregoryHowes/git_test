@@ -1,1 +1,2 @@
 Testing git for Odin Project
+Changed commit message editor
